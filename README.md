@@ -17,7 +17,7 @@ This repository contains my solutions to various LeetCode problems. Each solutio
 ---
 
 ## 💡 How I Approach Problems
-1. **Understand:** Read the constraints carefully (helps in deciding between $O(n)$, $O(n \log n)$, or $O(n^2)$).
+1. **Understand:** Read the constraints carefully.
 2. **Brute Force:** Think of the simplest way to solve it.
 3. **Optimize:** Use HashMaps, Pointers, or Sliding Windows to reduce complexity.
 4. **Dry Run:** Trace the code with edge cases like empty arrays or single elements.
